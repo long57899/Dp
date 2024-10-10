@@ -8,6 +8,5 @@ env/
 venv/
 .venv/
 storage/
-.env
 settings_local.py
 .DS_Store
