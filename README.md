@@ -69,7 +69,7 @@ python3 -m venv env
 source env/bin/activate
 20. - Устанавливаем зависимости:
 pip install -r requirements.txt
-21. - В папке backend создаем файл .env в соответствии с шаблоном env.template:
+21. - В папке backend изменяем если нужно файл .env в соответствии с шаблоном:
 nano .env
 22. - Применяем миграции:
 python manage.py migrate
