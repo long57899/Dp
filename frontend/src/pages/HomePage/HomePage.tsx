@@ -2,7 +2,7 @@ import { FC } from "react";
 
 import "./homePage.css";
 
-export const HomePage: FC = () => {
+export const HomePage: = () => {
   return (
     <div className="banner my-4 d-flex justify-content-center align-items-center">
       <div className="text-center text-white">
